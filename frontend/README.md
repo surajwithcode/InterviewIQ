@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Interview Preparation Platform
+# 🚀 InterviewIQ
 
 ## Overview
 This is a full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) and powered by Google's Gemini AI. It allows users to create personalized interview preparation sessions based on their target job role and experience level. The AI then generates highly relevant, technical interview questions and answers, which are saved to the user's dashboard for review.
@@ -83,7 +83,7 @@ Create a `.env` file inside the `/backend` directory and add the following keys:
 * Start the frontend: Open a second terminal in `/frontend` and run `npm run dev` (runs on port 5173).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 AI-Powered Interview Preparation Platform
+🚀 InterviewIQ
 Overview
 Yeh ek full-stack web application hai jo MERN stack (MongoDB, Express, React, Node.js) ka use karke banayi gayi hai aur Google ke Gemini AI se powered hai. Yeh users ko unke target job role aur experience level ke basis par personalized interview preparation sessions create karne allow karta hai. Iske baad, AI highly relevant, technical interview questions aur answers generate karta hai, jo user ke dashboard mein review ke liye save ho jaate hain.
 
